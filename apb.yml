@@ -8,6 +8,7 @@ metadata:
   dependencies: ['docker.io/ansibleplaybookbundle/py-zip-demo:latest']
   displayName: Pyzip Demo (APB)
   longDescription: APB Implementation of the Python webapp, https://github.com/fusor/py-zip-demo
+  providerDisplayName: "Red Hat, Inc."
 plans:
   - name: default
     description: Python Zip Demo APB Implementation
