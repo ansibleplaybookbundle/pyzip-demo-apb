@@ -1,6 +1,5 @@
 version: 1.0
 name: pyzip-demo-apb
-image: ansibleplaybookbundle/pyzip-demo-apb
 description: Python Zip Demo APB Implementation
 bindable: False
 async: optional
