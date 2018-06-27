@@ -1,4 +1,4 @@
-version: 1.0
+version: 1.0.0
 name: pyzip-demo-apb
 description: Python Zip Demo APB Implementation
 bindable: False
